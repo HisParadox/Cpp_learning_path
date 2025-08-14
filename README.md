@@ -123,6 +123,8 @@ Anything extra.
 * [The Cherno: C++ on YouTube](https://www.youtube.com/playlist?list=PLlrATfBNZ98fqE45g3jZA_hLGUrD4bo6_)
 * [GeeksforGeeks C++ STL](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
 * [LearnOpenGL](https://learnopengl.com/)
+* Bro Code https://youtu.be/-TkoO8Z07hI?si=7ZKsTuHMpxB7VyAO
+  
 
 ---
 
